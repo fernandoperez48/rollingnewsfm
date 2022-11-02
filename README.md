@@ -10,7 +10,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Desarrolladores
-Fernando Rafael Perez
+Fernando Rafael Perez y
 Martin Lozano Muñoz
 
 
